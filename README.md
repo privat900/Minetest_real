@@ -1,2 +1,4 @@
 # Minetest_real
-minetest for 5.3.0
+
+file:///home/minetest/snap/minetest/current/games/Minetest_Real.zip
+
